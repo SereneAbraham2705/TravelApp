@@ -5,3 +5,4 @@ It provides ratings as well as ratings which makes it easier for people to choos
 TECHNOLOGIES USED: React
 
 CHECK OUT THE APP HERE:
+https://serene-travel-app.netlify.app/
